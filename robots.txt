@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-40950-usman-automation-solutions/sitemap.xml
